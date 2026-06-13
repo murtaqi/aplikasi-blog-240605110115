@@ -4,8 +4,8 @@ Proyek ini merupakan pengembangan dari **Sistem Manajemen Konten (CMS) Modul 10*
 
 ## Informasi Mahasiswa
 
-*   **Nama Lengkap:** Murtaqi Yahya
-*   **NIM:** [Masukkan NIM Anda di sini]
+*   **Nama Lengkap:** Muhammad Murtaqi Yahya
+*   **NIM:** 240605110115
 *   **Mata Kuliah:** Pemrograman Web (Genap 2025/2026)
 *   **Dosen:** A’la Syauqi M.Kom.
 
@@ -28,8 +28,8 @@ Aplikasi Blog ini dibangun menggunakan framework **Laravel** dengan arsitektur *
 
 ## Tautan Demonstrasi
 
-*   **Repositori GitHub:** `https://github.com/[username]/aplikasi-blog-[nim]`
-*   **Video Demonstrasi YouTube:** [Tautan Video Demonstrasi UAS di sini]
+*   **Repositori GitHub:** https://github.com/murtaqi/aplikasi-blog-240605110115
+*   **Video Demonstrasi YouTube:** https://youtu.be/VKlXU8xHvh4
 
 ---
 
